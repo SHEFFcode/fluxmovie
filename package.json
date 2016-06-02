@@ -1,0 +1,23 @@
+{
+  "name": "fluxmovie",
+  "version": "1.0.0",
+  "description": "Simple Movie Info Finder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeremy Shefer",
+  "license": "MIT",
+  "devDependencies": {
+    "browserify": "*",
+    "flux": "*",
+    "gulp": "*",
+    "reactify": "*",
+    "vinyl-source-stream": "*",
+    "object-assign": "*"
+  },
+  "dependencies": {
+    "react": "0.14.7",
+    "react-dom": "0.14.7"
+  }
+}
